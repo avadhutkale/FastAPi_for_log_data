@@ -1,0 +1,1 @@
+# FastAPi_for_log_data
